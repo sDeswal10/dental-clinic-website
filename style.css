@@ -1,0 +1,20 @@
+
+.navbar{
+    background: linear-gradient(to right, #c5d9ff,  #3498DB);
+}
+.center-info{
+    background: linear-gradient(to right, #c5d9ff,  #3498DB);
+    color: white;
+    padding: 5%;
+}
+.main-text{
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.main-text2{
+    font-size: 50px;
+    font-weight: 600;
+    
+}
